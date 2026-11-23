@@ -1,5 +1,3 @@
-<img src="image1_banner_1280x640.jpg" width="100%">
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:FF9900&height=200&section=header&text=Swaroop%20Patil&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=18" alt="banner" />
