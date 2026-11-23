@@ -1,4 +1,4 @@
-<img src="london2_enhanced_full.jpg" width="100%">
+<img src="image1_banner_1280x640.jpg" width="100%">
 
 <div align="center">
 
